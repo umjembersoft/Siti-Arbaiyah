@@ -1,0 +1,76 @@
+http://sia.unmuhjember.ac.id/
+
+GET / HTTP/1.1
+Ket:Mengirimkan data ke server
+---------------------------------
+Host: sia.unmuhjember.ac.id
+Ket:Alamat URL sia unmuh jember
+------------------------------------------
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:13.0) Gecko/20100101 Firefox/13.0
+Ket:Browser Client menggunakan Mozilla/5.0 serial gecko/20100101 tipe Firefox 13.0
+------------------------------------------------------------------------------------
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Ket:Menerima data teks, aplication,xhtml + xml
+----------------------------------------------------
+
+Accept-Language: en-us,en;q=0.5	
+Ket:Menerima Bahasa dari web yang dituju yaitu menggunakan bahasa United Stated
+---------------------------------------------------------------------------------
+
+Accept-Encoding: gzip, deflate
+Ket:Menerima Encoding Gzip & Deflate
+----------------------------------------
+Connection: keep-alive
+Ket:Koneksi yang bisa diakses oleh semua
+------------------------------------------
+Cookie: __zlcmid=LBdCNecOJcX1hz
+Ket:Penyimpan Informasi yang dapat digunakan untuk mengidentifikasi atau mengontak Akses
+-----------------------------------------------------------------------------------------	
+
+HTTP/1.1 200 OK
+Ket:Sukses Masuk jarak 1-200 proses berhasil
+---------------------------------------------
+
+Server: nginx/1.0.5
+Ket:Server menggunakan nginx telah menyetujui Proses
+---------------------------------------------------------
+
+Date: Mon, 30 Sep 2013 13:49:57 GMT
+Ket:Tanggal memproses sia unmuh jember hari senin 30 september 2013
+-----------------------------------------------------------------------------
+Content-Type: text/html
+Ket:Tipe konten text/ html
+---------------------------
+
+Connection: keep-alive
+Ket:Tipe konten text/ html
+-------------------------------
+
+X-Powered-By: PHP/5.3.6-13ubuntu3.10
+Ket:Server menggunakan OS ubuntu 3.10 dan bahasa pemrograman PHP/5.3.6-13
+---------------------------------------------------------------------------------
+
+
+Set-Cookie: PHPSESSID=6u60il14ajsknjol6eplf419h7; path=/
+
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Ket:Pengawasan Terbatas
+----------------------------
+
+Pragma: no-cache
+Ket:Tag dapat tidak mencegah halaman yang di-cache
+------------------------------------------------------
+
+Vary: Accept-Encoding
+Ket:Terima pengkodean
+----------------------
+
+Content-Encoding: gzip
+Ket:Konten pengkodean gzip
+----------------------------
+
+Content-Length: 2350
+Ket:Konten Jarak 2350
+----------------------------------------------------------
